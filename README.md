@@ -6,3 +6,5 @@ Auto-generated structs & offsets for Safe Exam Browser, could be useful for some
 Will probably not release for older versions of seb because I'm too lazy.
 
 Not manually found, I used a dumper I made, but they were all verified during a couple tests.
+
+Join our discord server for a fully working bypass: https://discord.gg/HBjpBv9dUv
